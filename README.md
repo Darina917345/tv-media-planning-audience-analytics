@@ -1,4 +1,4 @@
 # TV Audience Analytics & Media Planning
 
-**Name:** Дарина Джура  
+**Name:** Daryna Dzhura  
 **Group:** КМ-41  
